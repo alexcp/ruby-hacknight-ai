@@ -1,3 +1,3 @@
 # Ruby Hacknight Ai
 
-By Alexandre Croteau-Pothier and Angus 
+By Alexandre Croteau-Pothier, Angus, Jean-Nicholas Hould
